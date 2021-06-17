@@ -8,7 +8,9 @@ for i in range(1,int(w)+1):
 
 subtract = int(x) - int(n)
 if subtract > 0:
-  print(int(x)-int(n))
+  print(subtract)
 if subtract <= 0:
   print(0)
+
+
 
