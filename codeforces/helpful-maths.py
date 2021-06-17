@@ -1,5 +1,5 @@
 #https://codeforces.com/problemset/problem/339/A
-#TODO: clean up this code because it's prettu redundant and you could do better
+#TODO: clean up this code because it's pretty redundant and you could do better
 
 inputs = input()
 
