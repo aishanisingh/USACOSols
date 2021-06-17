@@ -27,12 +27,7 @@ myarr = []
 for i in number_list:
   myarr.append(str(i))
 
-string = ' '.join(myarr)
+string = '+'.join(myarr)
 
-myarr3 = []
-myarr3[:0] = string
+print(string)
 
-newlist = ['+' if x==' ' else x for x in myarr3]
-newerlist = ''.join(newlist)
-
-print(newerlist)
