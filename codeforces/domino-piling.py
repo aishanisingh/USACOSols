@@ -3,6 +3,7 @@
 l, w = input().split()
 area = int(l)*int(w)
 x = area/2
+
 if x%1 == 0:
   print(int(x))
 else:
